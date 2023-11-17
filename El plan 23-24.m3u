@@ -1,0 +1,201 @@
+#EXTM3U url-tvg="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml"
+#EXTINF:0 tvg-id="M+ LaLiga HD" group-title="Movistar Fútbol",001 M. LaLiga TV 1080p
+acestream://1969c27658d4c8333ab2c0670802546121a774a5
+#EXTINF:0 tvg-id="M+ LaLiga HD" group-title="Movistar Fútbol",002 M. LaLiga TV 1080p
+acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280
+#EXTINF:0 tvg-id="M+ LaLiga HD" group-title="Movistar Fútbol",003 M. LaLiga TV 1080p
+acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f
+#EXTINF:0 tvg-id="M+ LaLiga HD" group-title="Movistar Fútbol",004 M. LaLiga TV 720p
+acestream://f031f5728b32f6089dda28edebe990cf198108d8
+#EXTINF:0 tvg-id="M+ LaLiga HD" group-title="Movistar Fútbol",005 M. LaLiga 2 1080p
+acestream://26029f72a4ca831d09deefe89534818db1d105bc
+#EXTINF:0 tvg-id="M+ LaLiga 2 HD" group-title="Movistar Fútbol",006 M. LaLiga 2 720p
+acestream://80126b240f3e4e004754fd8f8103e857ab2556a0
+#EXTINF:0 group-title="Movistar Fútbol",007 M.L. Campeones 1080p MultiAudio
+acestream://931b1984badcb821df7b47a66ac0835ac871b51c
+#EXTINF:0 group-title="Movistar Fútbol",008 M.L. Campeones 1080p MultiAudio
+acestream://f096a64dd756a6d549aa7b12ee9acf7eee27e833
+#EXTINF:0 group-title="Movistar Fútbol",009 M.L. Campeones 1080p MultiAudio
+acestream://1d79a7543d691666135669f89f3541f54e2dd0a9
+#EXTINF:0 group-title="Movistar Fútbol",010 M.L. Campeones 720p
+acestream://e2e2aca792aae5da19995ac516b1d620531bd49c
+#EXTINF:0 group-title="Movistar Fútbol",011 M.L. Campeones 720p
+acestream://6b56c1de436327b49e429a702e81e9269630e37a
+#EXTINF:0 group-title="Movistar Fútbol",012 M.L. Campeones 2 1080p
+acestream://fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
+#EXTINF:0 group-title="Movistar Fútbol",013 M.L. Campeones 2 720p
+acestream://6753492c1908274c268a1b28e2a054a0ff8f86f9
+#EXTINF:0 group-title="Movistar Fútbol",014 M.L. Campeones 3 1080p
+acestream://ad372cba73aa0ece207a79532b3e30b731136bb2
+#EXTINF:0 group-title="Movistar Fútbol",015 M.L. Campeones 3 720p
+acestream://d59fe9978eed49f256b312a60671b5bce43d3f24
+#EXTINF:0 group-title="Movistar Fútbol",016 M.L. Campeones 4 SD
+acestream://1b48d5881337c87b89e1edefff6688fe2271d222
+#EXTINF:0 group-title="Movistar Fútbol",017 M.L. Campeones 4 SD
+acestream://f2df4f96b23388b45e75d848a48a510cf8af560f
+#EXTINF:0 group-title="Movistar Fútbol",018 M.L. Campeones 5 SD
+acestream://5c21c181156f200d5e628ef2c62cd06bf5f97eb7
+#EXTINF:0 group-title="Movistar Fútbol",019 M.L. Campeones 6 SD
+acestream://a0978a100de9a307c12d395d9b2f4142db6ab52d
+#EXTINF:0 group-title="Movistar Fútbol",020 M.L. Campeones 7 SD
+acestream://d84a90adb6998083403f610ab3fae340b5711b1e
+#EXTINF:0 group-title="Movistar Fútbol",021 M.L. Campeones 7 SD
+acestream://5932623d2fd7ed16b01787251b418e4f59a01cda
+#EXTINF:0 group-title="Movistar Fútbol",022 M.L. Campeones 8 SD
+acestream://1a4b41c02e116ed19a505551a9caa79f54c027f7
+#EXTINF:0 group-title="Movistar Fútbol",023 M.L. Campeones 8 SD
+acestream://6c445141445b06d7b4328d80e2dd936bd0ca52ca
+#EXTINF:0 group-title="Movistar Fútbol",024 M.L. Campeones 9 SD
+acestream://7244379f8f6382d40afec871fb8e4219a803840b
+#EXTINF:0 group-title="Movistar Fútbol",025 M.L. Campeones 10 SD
+acestream://d42e1b592b840ea34394fd3e1b1d3a4d0f399213
+#EXTINF:0 group-title="Movistar Fútbol",026 M.L. Campeones 11 SD
+acestream://e737c681a92a4328703761c6ed9d8a951655f3e4
+#EXTINF:0 group-title="Movistar Fútbol",027 M.L. Campeones 12 SD
+acestream://bb50397b3f49167eed95264005fae851baa7e3ee
+#EXTINF:0 group-title="Movistar Fútbol",028 M.L. Campeones 13 SD
+acestream://60296c246e3596f334903fefd48cfaa724a5053b
+#EXTINF:0 group-title="Movistar Fútbol",029 LaLiga Hypermotion 1080p
+acestream://4c46585214b23b1d802ef2168060c7649a3894cf
+#EXTINF:0 group-title="Movistar Fútbol",030 LaLiga Hypermotion 720p
+acestream://06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4
+#EXTINF:0 group-title="Movistar Fútbol",031 LaLiga Hypermotion 2 1080p
+acestream://d81b4f2f3fde433539c097b2edc9b587ca47b087
+#EXTINF:0 group-title="Movistar Fútbol",032 LaLiga Hypermotion 2 720p
+acestream://2709d0ab86cb6ce7ba4d3ad188d7fa80668f2924
+#EXTINF:0 group-title="Movistar Fútbol",033 LaLiga Hypermotion 3 1080p
+acestream://59ba45b79152e4599144177b234f6491fc19db53
+#EXTINF:0 group-title="Movistar Fútbol",034 M.SuperCopa 1080p MultiAudio
+acestream://8b2c2ef8925b1c659ccd3922390617a98d9ee6e1
+#EXTINF:0 group-title="Movistar Fútbol",035 M.SuperCopa 1080p MultiAudio
+acestream://c1a176e0165da407199bb9f8fb3acc2aaab2d3d1
+#EXTINF:0 group-title="Movistar Fútbol",036 M.SuperCopa 1080p
+acestream://95d9967309d74d3dbd87c66cf374666bb9da9f07
+#EXTINF:0 group-title="Movistar Fútbol",037 M.SuperCopa 720p
+acestream://a16f0078ccb46ba65aaa175ad823e47ec31ab464
+#EXTINF:0 group-title="Movistar Deportes",038 M. Deportes 1080p
+acestream://d00223931b1854163e24c5c22475015d7d45c112
+#EXTINF:0 group-title="Movistar Deportes",039 M. Deportes 720p
+acestream://e5fa927d9a017f4523fdb62774a0aec457985bfa
+#EXTINF:0 group-title="Movistar Deportes",040 M. Deportes 2 1080p
+acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917
+#EXTINF:0 group-title="Movistar Deportes",041 M. Deportes 3 1080p
+acestream://aee0a595220e0f1c2fee725fd1dbc602d7152a9a
+#EXTINF:0 group-title="Movistar Deportes",042 M. Deportes 4 1080p
+acestream://42e83c337ece0af9ca7808859f84c7960e9cb6f5
+#EXTINF:0 group-title="Movistar Deportes",043 M. Deportes 5 1080p
+acestream://b1e5abc48195b7ca9b2ee1b352e790eb9f7292e3
+#EXTINF:0 group-title="Movistar Deportes",044 M. Deportes 6 1080p
+acestream://8587ed8ac36ac477e1d4176d3159a38bd154d4ce
+#EXTINF:0 group-title="Movistar Deportes",045 M. Deportes 7 1080p
+acestream://5da3c25c14d111cb9c33cf6e0b45b7cab88fe741
+#EXTINF:0 group-title="Movistar Deportes",046 M. Deportes 8 SD
+acestream://b779e6056975e3682a804d47cbd5cc806217f64d
+#EXTINF:0 group-title="Movistar Deportes",047 M. Golf 1080p
+acestream://4f945b0ba4206fa2676b61e9eaa465ac3dcc8122
+#EXTINF:0 group-title="Movistar Deportes",048 M. Golf 2
+acestream://9a4f3ae6563668b7709dac509dedc709441b3fd9
+#EXTINF:0 group-title="Movistar Otros",049 M.#Vamos 1080p
+acestream://859bb6295b8d0f224224d3063d9db7cdeca03122
+#EXTINF:0 group-title="Movistar Otros",050 M.#Vamos 720p
+acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0
+#EXTINF:0 group-title="Movistar Otros",051 M.Ellas
+acestream://71e9e4c66a271ff58beb76792e01eeb6a1dde746
+#EXTINF:0 group-title="Movistar Otros",052 M.#0
+acestream://864fc1be34bdedc4bc2c7bb92098c61df8e9c7c2
+#EXTINF:0 group-title="Movistar Otros",053 Movistar Plus 1080p
+acestream://5a236fbbe6e5bbfec03db548c244a7c858d675c0
+#EXTINF:0 group-title="Movistar Otros",054 Tennis Channel
+acestream://9292d3b32432efb56db4014933cbdec0a7cf2e36
+#EXTINF:0 group-title="DAZN",055 DAZN LaLiga 1080p MultiAudio
+acestream://1960a9be8ae9e8c755330218eac4c5805466290a
+#EXTINF:0 group-title="DAZN",056 DAZN LaLiga 1080p MultiAudio
+acestream://95b2238dec35cf00dfdf8fba18e9920bc2c56256
+#EXTINF:0 group-title="DAZN",057 DAZN LaLiga 1080p MultiAudio
+acestream://75251ba975132ec9a202806ba5bf606e87280c96
+#EXTINF:0 group-title="DAZN",058 DAZN LaLiga 720p
+acestream://a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914
+#EXTINF:0 group-title="DAZN",059 DAZN LaLiga 2
+acestream://e33e666c393ef04ebe99a9b92135d2e0b48c4d10
+#EXTINF:0 group-title="DAZN",060 DAZN LaLiga 2
+acestream://0950c37fe1ea817fc561c611ae943d58505f7a79
+#EXTINF:0 group-title="DAZN",061 DAZN LaLiga 2
+acestream://93d663e92a93845b11c9831885646fa39ba1ed66
+#EXTINF:0 group-title="DAZN",062 DAZN LaLiga 3
+acestream://8c71f0e0a5476e10950fc827f9d2a507340aba74
+#EXTINF:0 group-title="DAZN",063 DAZN LaLiga F
+acestream://600222a4f98df80a2c0df2d60cb5ff3df9620710
+#EXTINF:0 group-title="DAZN",064 DAZN LaLiga F 2
+acestream://d6cdd724a97fcf851e7ef641c28d6beb8663496e
+#EXTINF:0 group-title="DAZN",065 DAZN LaLiga F 3
+acestream://162942adc047d0f78eac056effbe5bbec54a5e51
+#EXTINF:0 group-title="DAZN",066 DAZN LaLiga F 4
+acestream://e454681a152a86da504e63694f17f90d0586867d
+#EXTINF:0 group-title="DAZN",067 DAZN 1 1080p
+acestream://8ca07071b39185431f8e940ec98d1add9e561639
+#EXTINF:0 group-title="DAZN",068 DAZN 1 720p
+acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f
+#EXTINF:0 group-title="DAZN",069 DAZN 2 1080p
+acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc
+#EXTINF:0 group-title="DAZN",070 DAZN 2 720p
+acestream://7aa402bab9fff43258fbcf401881a39475f30aaf
+#EXTINF:0 group-title="DAZN",071 DAZN 3 1080p
+acestream://a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd97
+#EXTINF:0 group-title="DAZN",072 DAZN 4 1080p
+acestream://2fcdf7a19c0858f686efdfabd3c8c2b92bf6bcfd
+#EXTINF:0 group-title="DAZN",073 DAZN F1 1080p
+acestream://5789ca155323664edd293b848606688edf803f4d
+#EXTINF:0 group-title="DAZN",074 DAZN F1 1080p
+acestream://9dad717d99b29a05672166258a77c25b57713dd5
+#EXTINF:0 group-title="DAZN",075 DAZN F1 720p
+acestream://e1fcad9de0c782c157fde6377805c58297ab65c2
+#EXTINF:0 group-title="DAZN",076 DAZN F1 Multicam 1080p
+acestream://4fc3417ae1f5cfd8c7ab8e4ebdb9ba88d486caf2
+#EXTINF:0 group-title="DAZN",077 DAZN F1 TV 1080p
+acestream://7088d4b32f4a7c0326765f13764417d038a4524d
+#EXTINF:0 group-title="LaLiga BAR",078 LaLiga TV Bar 1080p
+acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280
+#EXTINF:0 group-title="LaLiga BAR",079 LaLiga TV Bar 1080p
+acestream://512aeadf50d91603d15b32f1e408166536ec4ac9
+#EXTINF:0 group-title="GOL",080 GOL MUNDIAL 1
+acestream://97a2a6082909987c419986259079f969968bd662
+#EXTINF:0 group-title="GOL",081 GOL MUNDIAL 1
+acestream://78384a676407784df944243eb2f75d937fbcc253
+#EXTINF:0 group-title="GOL",082 GOL MUNDIAL 2
+acestream://a248e0e3649b135d3e3a806874153f8bccd32e4a
+#EXTINF:0 group-title="GOL",083 GOL MUNDIAL 2
+acestream://4af5952b95d3c2e99fcdc0de2f528d3fcd73e06b
+#EXTINF:0 group-title="GOL",084 GOL MUNDIAL 3
+acestream://52c8ff01836c294caad8b8c029b53360aa16a4cd
+#EXTINF:0 group-title="GOL",085 GOL MUNDIAL 4
+acestream://2288e220d02b9d0364a95a36087a45d9ecb9e2b4
+#EXTINF:0 group-title="GOL",086 GOL MUNDIAL 4
+acestream://5a8d60f4c8e558f8ae5acad7c75f455928ce0c2e
+#EXTINF:0 group-title="TDT",087 LA 1 UHD
+acestream://6636a5c1055b5913ddcd0e87a5523f7d935350af
+#EXTINF:0 group-title="TDT",088 LA 1 1080p
+acestream://02b9307c5c97c86914cc5939d6bbeb5b4ec60b47
+#EXTINF:0 group-title="TDT",089 CUATRO FHD
+acestream://e8eec35f4662be1af96963245bfa88fb7d0242c4
+#EXTINF:0 group-title="TDT",090 TELECINCO FHD
+acestream://cbf281d5e481697aa4184fe1de5e069928c95057
+#EXTINF:0 group-title="TDT",091 tdp 1080p
+acestream://e2395d28ad19423212fd3aa0e81f387db3e8bb9f
+#EXTINF:0 group-title="TDT",092 GOL TV 1080p
+acestream://d4627f7b6b237a8556819445b3283d866caceca2
+#EXTINF:0 group-title="TDT",093 EuroSport 1 1080p
+acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
+#EXTINF:0 group-title="TDT",094 EuroSport 2 1080p
+acestream://c373da9e901d414b7384e671112e64d5a2310c29
+#EXTINF:0 group-title="TDT",095 EuroSport Player
+acestream://d871578fc069de543d1ed8b5e63092d870bad8ee
+#EXTINF:0 group-title="TDT",096 Real Madrid TV
+acestream://0ec3f3786318acd8dca2588f74c3759cda76cd11
+#EXTINF:0 group-title="TDT",097 National Geo
+acestream://d0c5c350d8c62f7b7aa2516646a7e6f42b6155d1
+#EXTINF:0 group-title="TDT",098 Historia
+acestream://b899f725b8782aa263026b2bfbd43ee1e18482b6
+#EXTINF:0 group-title="TDT",099 BedMad FHD
+acestream://5c267a00f264736c1d47c1cc3e754447ca8f770c
+#EXTINF:0 group-title="TDT",100 MundoToro HD
+acestream://f763ab71f6f646e6c993f37e237be97baf2143ef
